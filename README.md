@@ -7,13 +7,13 @@ Machine learning project to predict house prices using Linear Regression. Includ
 
 This project builds a machine learning model to predict house prices based on features such as area, number of bedrooms, and bathrooms. A Linear Regression model is trained and evaluated using error metrics.
 
-## 🎯 Objectives:
+## 🎯 Objectives:-
 
 - Understand regression models
 - Build predictive ML system
 - Evaluate performance using MAE and RMSE
 
-## 🛠 Technologies Used:
+## 🛠 Technologies Used:-
 
 - Python
 - Pandas
@@ -22,7 +22,7 @@ This project builds a machine learning model to predict house prices based on fe
 - Matplotlib
 - Google Colab
 
-## ⚙️ Model Used:
+## ⚙️ Model Used:-
 
 Linear Regression
 
