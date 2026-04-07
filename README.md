@@ -13,7 +13,7 @@ This project builds a machine learning model to predict house prices based on fe
 - Build predictive ML system
 - Evaluate performance using MAE and RMSE
 
-## 🛠 Technologies Used:-
+## 🛠 Technologies Used:
 
 - Python
 - Pandas
