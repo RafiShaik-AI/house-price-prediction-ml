@@ -3,7 +3,7 @@
 Machine learning project to predict house prices using Linear Regression. Includes data preprocessing, model training, evaluation using MAE and RMSE, and visualization of results using Python and scikit-learn.
 # House Price Prediction using Machine Learning
 
-## 📌 Project Description:
+## 📌 Project Description
 
 This project builds a machine learning model to predict house prices based on features such as area, number of bedrooms, and bathrooms. A Linear Regression model is trained and evaluated using error metrics.
 
