@@ -1,4 +1,4 @@
-# house-price-prediction-ml:-=zxcvbnm
+# house-price-prediction-ml:-=zxcvbn
 
 Machine learning project to predict house prices using Linear Regression. Includes data preprocessing, model training, evaluation using MAE and RMSE, and visualization of results using Python and scikit-learn.
 # House Price Prediction using Machine Learning
